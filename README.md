@@ -1,10 +1,10 @@
 # Hey there!
 
-I'm passionate about PHP and Python development, specializing in web development and testing.
+# Crafting Reliable Systems: C & Assembly Kernel Development
 
-Dive into my repositories to discover projects ranging from full-stack web applications to testing frameworks and automation tools.
+As a driven developer with a robust foundation in C and Assembly languages, I am dedicated to building reliable systems and advancing the field of kernel development.
 
-Let's connect, collaborate, and advance our expertise in PHP, Python, web development, and testing together!
+**Kernel Developer | C & Assembly**
 
 ---
 
@@ -21,10 +21,10 @@ Let's connect, collaborate, and advance our expertise in PHP, Python, web develo
 
 | Rank | Languages |
 |-----:|------------|
-|     1| PHP        |
-|     2| Python     |
-|     3| SQL        |
-|     4| JavaScript |
-|     5| Go         |
+|     1| C          |
+|     2| Assembly   |
+|     3| Rust       |
+|     4| C++        |
+|     5| Zig        |
 
 </details>
